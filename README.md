@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm M Labib Alfaraby</h1>
 <h3 align="center">A passionate Student</h3>
-<img align="right" alt="Coding" width="400" src="https://mycity.co.id/wp-content/uploads/2020/12/1_c_fiB-YgbnMl6nntYGBMHQ.jpeg"/>
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/Gn9p.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=labibs30&label=Profile%20views&color=0e75b6&style=flat" alt="labibs30" /> </p>
 
