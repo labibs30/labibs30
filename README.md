@@ -16,19 +16,9 @@
 <a href="https://www.instagram.com/alfaraby.muhh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="labibalfaraby" height="30" width="40" /></a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=labibs30&show_icons=true&locale=en&layout=compact" alt="labibs30" /></p>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=labibs30&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=labibs30&show_icons=true" />
-</picture>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=labibs30&" alt="labibs30" /></p>
+<h3 align="left">Statistic:</h3>
+<a href="https://github.com/labibs30">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=labibs30&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=labibs30&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 
