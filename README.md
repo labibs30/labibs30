@@ -21,4 +21,4 @@
 <h3 align="left">My Stats:</h3>  
 <!-- <img  align="center"  src="https://awesome-github-stats.azurewebsites.net/user-stats/labibs30?cardType=octocat&theme=ocean-dark&preferLogin=false" /> -->
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/labibs30?cardType=octocat&theme=flag-brazil&preferLogin=false)](https://git.io/awesome-stats-card)
+
