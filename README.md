@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=labibs30&label=Profile%20views&color=0e75b6&style=flat" alt="labibs30" /> </p>
 
-- 🌱 I’m currently learning **NextJs, ExpressJs, NodeJs, Machine Learning, Python**
+- 🌱 I’m currently learning **NextJs, ExpressJs, NodeJs, Flutter, Machine Learning, Python**
 
 - 📫 How to reach me **labibddada@gmail.com**
 
